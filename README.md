@@ -1,5 +1,6 @@
-👋 Hi, I'm Fernando Moreno Borrego!
-About Me
+👋 HI, I'M FERNANDO MORENO BORREGO!
+
+ABOUT ME
 
 🎓 I hold a Bachelor's degree in Physics from Complutense University of Madrid and am currently pursuing a Master's in Big Data and Business Analytics at IE.
 
