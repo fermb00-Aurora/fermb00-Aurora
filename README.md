@@ -14,7 +14,9 @@
 I’m currently working on projects involving large-scale data analysis and predictive modeling. This includes building robust data pipelines, developing machine learning models to uncover hidden patterns, and creating interactive dashboards using SQL, R, MATLAB, and Python. I'm particularly focused on applying these techniques to real-world business problems to drive actionable insights and enhance decision-making processes.
 Bachelor's Project
 
-During my Bachelor's, I developed a project on Geometric Brownian Motion aimed at modeling financial markets. The objective was to simulate stock prices and analyze their behavior over time, providing a statistical framework to predict future movements. This project deepened my understanding of stochastic processes and their applications in financial engineering.
+During my Bachelor's, I developed a project on Geometric Brownian Motion aimed at modeling financial markets. The objective was to simulate stock prices and analyze their behavior over time, providing a statistical framework to predict future movements. This project deepened my understanding of stochastic processes and their applications in financial engineering. 
+
+PROJECT LINK: https://github.com/fermor04/fermb00-physics.git
 
 ## 🛠️ MY SKILLS
 -------------------
