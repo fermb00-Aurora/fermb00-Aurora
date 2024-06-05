@@ -2,8 +2,11 @@
 About Me
 
 🎓 I hold a Bachelor's degree in Physics from Complutense University of Madrid and am currently pursuing a Master's in Big Data and Business Analytics at IE.
+
 🌍 Based in the vibrant city of Madrid, I love exploring both bars and books skills when I'm not immersed in data.
+
 📚 An avid reader, I enjoy delving into both technical books and science fiction novels.
+
 
 What I'm Working On
 
@@ -13,10 +16,10 @@ Bachelor's Project
 During my Bachelor's, I developed a project on Geometric Brownian Motion aimed at modeling financial markets. The objective was to simulate stock prices and analyze their behavior over time, providing a statistical framework to predict future movements. This project deepened my understanding of stochastic processes and their applications in financial engineering.
 What I'm Learning
 
-🌱 I’m currently diving deep into machine learning algorithms and their applications in business analytics. I'm also exploring advanced data visualization techniques and the latest advancements in AI, including natural language processing and computer vision. Additionally, I'm honing my skills in cloud computing to efficiently handle and analyze big data.
+🌱 Currently diving deep into machine learning algorithms and their applications in business analytics. I'm also exploring advanced data visualization techniques and the latest advancements in AI, including natural language processing and computer vision. Additionally, I'm honing my skills in cloud computing to efficiently handle and analyze big data.
 Collaboration
 
-👯 I’m looking to collaborate on innovative data science projects that can make a real impact, especially those involving data visualization, statistical analysis, and machine learning. I'm eager to work with interdisciplinary teams to solve complex challenges and drive technological advancements.
+👯 Looking forward to collaborate on innovative data science projects that can make a real impact, especially those involving data visualization, statistical analysis, and machine learning. I'm eager to work with interdisciplinary teams to solve complex challenges and drive technological advancements.
 Seeking Help
 
 🤔 I’m looking for help with expanding my knowledge in deep learning and LLMs. If you have expertise in these areas, let's connect!
