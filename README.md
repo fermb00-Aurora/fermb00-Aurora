@@ -22,9 +22,9 @@ During my Bachelor's, I developed a project on Geometric Brownian Motion aimed a
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![R](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![Matlab](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![SQL](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![R]([https://img.shields.io/badge/-APEX-000?&logo=Salesforce](https://commons.wikimedia.org/wiki/File:R_logo.svg))
+![Matlab]([https://img.shields.io/badge/-LWC-000?&logo=Salesforce](https://dyor.webs.upv.es/en/robot-iot/logo-matlab/))
+![SQL]([https://img.shields.io/badge/-PHP-000?&logo=PHP](https://habr.com/ru/articles/564390/))
 
 ## COLLABORATION
 
